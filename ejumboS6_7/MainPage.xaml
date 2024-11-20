@@ -54,6 +54,9 @@
             </DataTemplate>
         </ListView.ItemTemplate>
     </ListView>
+    <Button Text="Agregar Estudiante" Clicked="OnAgregarClicked" />
+    <Button Text="Actualizar Estudiante" Clicked="OnActualizarClicked" />
+    <Button Text="Eliminar Estudiante" Clicked="OnEliminarClicked" />
 </VerticalStackLayout>
 
 
